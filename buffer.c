@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[])
 {
-	char buff[5000];
+	char buff[512];
 	strcpy(buff,argv[1]);
 	return 0;
 }
